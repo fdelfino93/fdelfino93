@@ -1,9 +1,6 @@
-# Hi there, I'm Fernando Delfino 👋
+# Hi there, I'm Fernando Delfino
 
 ## CTO | Data Engineer | AI Specialist | ETL & Automation Expert
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandodelfino93-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fernandodelfino93)
-[![GitHub](https://img.shields.io/badge/GitHub-fdelfino93-black?style=flat&logo=github)](https://github.com/fdelfino93)
 
 **Postgraduate in Data Architecture and Data Engineering with Artificial Intelligence**
 
@@ -11,7 +8,7 @@ Technology executive and data engineer with strong experience in designing, impl
 
 ---
 
-## 🚀 Professional Summary
+## Professional Summary
 
 Senior technology leader with solid background in **Data Engineering, Automation, Artificial Intelligence and Cloud Architecture**. Proven experience in building end-to-end data pipelines, automating complex operational processes and supporting business strategy through reliable, secure and scalable systems.
 
@@ -21,7 +18,7 @@ Currently acting as **Head of Technology** in a condominium guarantee company, l
 
 ---
 
-## 💼 Core Competencies
+## Core Competencies
 
 - **Data Engineering & ETL Architecture** - Design and implementation of robust data pipelines
 - **Intelligent Automation** - RPA, Web Automation, Bots and Process Optimization
@@ -34,7 +31,7 @@ Currently acting as **Head of Technology** in a condominium guarantee company, l
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **Programming & Query Languages**
 - Python | SQL
@@ -52,7 +49,7 @@ Currently acting as **Head of Technology** in a condominium guarantee company, l
 
 ---
 
-## 💡 Current Role
+## Current Role
 
 ### Head of Technology / Technical Lead
 
@@ -69,7 +66,7 @@ Leading the technology team and providing direct technical support to all operat
 
 ---
 
-## 📚 Previously
+## Previously
 
 ### Chief Technology Officer (CTO) – LegalTech Startup
 
@@ -86,7 +83,7 @@ Led all technological architecture and strategic technology decisions for a lega
 
 ---
 
-## 👨‍🏫 Teaching & Education Experience
+## Teaching & Education Experience
 
 Active **Python Programming Instructor / Facilitator**, focused on real-world business problem solving. Strong experience teaching from language fundamentals to full data and automation applications, always with a hands-on, project-based approach.
 
@@ -106,21 +103,20 @@ Teaching activities are focused on preparing students for corporate environments
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **LinkedIn:** [linkedin.com/in/fernandodelfino93](https://www.linkedin.com/in/fernandodelfino93)
 - **GitHub:** [github.com/fdelfino93](https://github.com/fdelfino93)
 
 ---
 
-## 🎯 Philosophy
+## Philosophy
 
 *Focused on building reliable, secure and scalable technology solutions for real business impact.*
 
 ---
 ---
 
-<br>
 
 # 🇧🇷 Versão em Português
 
@@ -132,7 +128,7 @@ Executivo de tecnologia e engenheiro de dados com ampla experiência em projetar
 
 ---
 
-## 🚀 Resumo Profissional
+## Resumo Profissional
 
 Líder de tecnologia sênior com sólida experiência em **Engenharia de Dados, Automação, Inteligência Artificial e Arquitetura em Nuvem**. Experiência comprovada na construção de pipelines de dados end-to-end, automação de processos operacionais complexos e apoio à estratégia de negócio através de sistemas confiáveis, seguros e escaláveis.
 
@@ -142,7 +138,7 @@ Atualmente atuando como **Head de Tecnologia** em empresa garantidora de condom�
 
 ---
 
-## 💼 Competências Principais
+## Competências Principais
 
 - **Engenharia de Dados & Arquitetura ETL** - Projeto e implementação de pipelines de dados robustos
 - **Automação Inteligente** - RPA, Automação Web, Bots e Otimização de Processos
@@ -155,7 +151,7 @@ Atualmente atuando como **Head de Tecnologia** em empresa garantidora de condom�
 
 ---
 
-## 🛠️ Stack Técnico
+## Stack Técnico
 
 **Linguagens de Programação e Consulta**
 - Python | SQL
@@ -173,7 +169,7 @@ Atualmente atuando como **Head de Tecnologia** em empresa garantidora de condom�
 
 ---
 
-## 💡 Cargo Atual
+## Cargo Atual
 
 ### Head de Tecnologia / Líder Técnico
 
@@ -190,7 +186,7 @@ Liderando a equipe de tecnologia e fornecendo suporte técnico direto a todos os
 
 ---
 
-## 📚 Experiência Anterior
+## Experiência Anterior
 
 ### Chief Technology Officer (CTO) – Startup LegalTech
 
@@ -207,7 +203,7 @@ Liderei toda a arquitetura tecnológica e decisões estratégicas de tecnologia 
 
 ---
 
-## 👨‍🏫 Experiência em Ensino
+## Experiência em Ensino
 
 **Instrutor / Facilitador de Programação Python**, focado na resolução de problemas reais de negócio. Forte experiência no ensino desde fundamentos da linguagem até aplicações completas em dados e automação, sempre com abordagem prática (mão na massa).
 
@@ -227,13 +223,13 @@ Atividades de ensino focadas em preparar alunos para ambientes corporativos, com
 
 ---
 
-## 📫 Contato
+## Contato
 
 - **LinkedIn:** [linkedin.com/in/fernandodelfino93](https://www.linkedin.com/in/fernandodelfino93)
 - **GitHub:** [github.com/fdelfino93](https://github.com/fdelfino93)
 
 ---
 
-## 🎯 Filosofia
+## Filosofia
 
 *Focado em construir soluções tecnológicas confiáveis, seguras e escaláveis para impacto real nos negócios.*
